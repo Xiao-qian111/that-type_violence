@@ -9,14 +9,26 @@ def ch(text):
 def cs(text):
     st.subheader(text, text_alignment = "center")
 
-def tt(text, time):
-    ct(text)
+phs = []
+
+def set_ph(num):
+    for i in range(num):
+        phs.append(st.empty())
+
+def tt(text, time, id):
+    phs[id].empty()
+    with phs[id]:
+        ct(text)
     time.sleap(time)
 
-def th(text, time):
-    ch(text)
+def th(text, time, id):
+    phs[id].empty()
+    with phs[id]:
+        ch(text)
     time.sleap(time)
 
-def ts(text, time):
-    cs(text)
+def ts(text, time, id):
+    phs[id].empty()
+    with phs[id]:
+        cs(text)
     time.sleap(time)
