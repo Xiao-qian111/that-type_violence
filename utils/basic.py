@@ -19,16 +19,16 @@ def tt(text, time, id):
     phs[id].empty()
     with phs[id]:
         ct(text)
-    time.sleap(time)
+    time.sleep(time)
 
 def th(text, time, id):
     phs[id].empty()
     with phs[id]:
         ch(text)
-    time.sleap(time)
+    time.sleep(time)
 
 def ts(text, time, id):
     phs[id].empty()
     with phs[id]:
         cs(text)
-    time.sleap(time)
+    time.sleep(time)
