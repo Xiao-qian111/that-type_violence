@@ -1,6 +1,6 @@
 import streamlit as st
 import utils.basic as t
-t.set_ph(1)
+# t.set_ph(1)
 # Start
 lines = [
     "Hey?",
