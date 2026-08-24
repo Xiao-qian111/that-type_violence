@@ -12,7 +12,7 @@ lines = [
 ]
 
 code = f"""
-<div id="type_box" style="background:#222;padding:24px;border‑radius:12px;color:white;text‑align:center;font‑size:18px;min‑height:120px;"></div>
+<center><div id="type_box"></div></center>
 <script>
 const lines = {lines};
 const el = document.getElementById("type_box");
