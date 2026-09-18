@@ -52,4 +52,4 @@ function type(){{
 type();
 </script>
 """
-st.components.v1.html(code)
+st.components.v1.html(code, height = 114514)
