@@ -9,12 +9,12 @@ lines = [
     "Emm...",
     "Can I know more about you?",
     "Emm... okay",
-    "6YKj576k572R5pq06ICF5b6I6K6o5Y6M77y\n
-    M5LiN5piv5ZCX77yf",
-    "QmJsMTUtQW50YWdvbmlzbXPvvIzkuI3opoH\n
+    """6YKj576k572R5pq06ICF5b6I6K6o5Y6M77y\n
+    M5LiN5piv5ZCX77yf""",
+    """QmJsMTUtQW50YWdvbmlzbXPvvIzkuI3opoH\n
     nkIbkvJrku5bku6zvvIzotbDlpb3oh6rlt7\n
-    HnmoTot6/vvIE=",
-    "572R5pq0NOmprO+8jOe9keaatOaIkeiNiea\n
+    HnmoTot6/vvIE=""",
+    """572R5pq0NOmprO+8jOe9keaatOaIkeiNiea\n
     zpemprO+8jOaIkeiNieatu+S9oOWFqOWutu\n
     +8jOaIkeWOu+S9oOWmiOeahOmalOWjgeeah\n
     OWPuOmprOWCu+mAvO+8jOS9oOS7rOS4jemF\n
@@ -23,7 +23,7 @@ lines = [
     i+sei/meS6m+ivje+8jOaIkeS7luWmiOS7p\n
     eWQjuWGjeS5n+WmiOeahOmalOWjgeeahOeU\n
     qOS4jeS6hui/meS6m+ivjeS6huWlveS4jeW\n
-    lve+8jOaTjeS9oOWmiOeahOWCu+mAvA=="
+    lve+8jOaTjeS9oOWmiOeahOWCu+mAvA=="""
 ]
 
 code = f"""
